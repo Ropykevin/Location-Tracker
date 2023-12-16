@@ -1,6 +1,4 @@
 # Location-Tracker
-phone location tracker using python
-Sure, I can guide you on how to create a README file for a Git repository related to a location tracker project using a phone number. A good README file provides essential information about the project and helps others understand how to use, contribute, and set up the project. Here's a template you can use and customize for your specific project:
 
 ```markdown
 # Location Tracker Project
